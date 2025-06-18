@@ -1,11 +1,4 @@
 # 👋 Welcomes to Apurava's platform**
-<style>
-  img{
-  display: flex;
-    aline-item: center;
-    justify-content:center;
-  }
-</style>
 
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100px" aline-item="center"  alt="developer logo" />
 
@@ -26,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,linux,github,arduino" height="50" alt="Tech stack" />
 </p>
 
----
 
 ### 🌐 MERN Stack
 <p>
