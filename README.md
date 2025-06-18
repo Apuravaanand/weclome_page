@@ -1,6 +1,6 @@
 # 👋 Welcomes to Apurava's platform**
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100%" alt="developer logo" />
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100%" aline-item="center"  alt="developer logo" />
 
 ---
 
