@@ -37,12 +37,11 @@
 ---
 
 ## 🌟 Featured Projects
-
+- 🌐 [**Portfolio Website**](https://apuravaanand.github.io/Portfolio/)  
+   *A responsive portfolio using HTML, CSS, JavaScript, and smooth animations*
+  
 - 🚗 [**Smart Car Controller (IoT)**](https://github.com/Apuravaanand/SmartCarController)  
    *ESP32-based car control with 4 DC motors + servo using RemoteXY & MQTT*
-
-- 🌐 [**Portfolio Website**](https://github.com/Apuravaanand/Portfolio)  
-   *A responsive portfolio using HTML, CSS, JavaScript, and smooth animations*
 
 ---
 
