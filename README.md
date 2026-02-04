@@ -10,7 +10,6 @@
 </p>
 ---
 ## 📊 Professional Dashboard  
-
 | Metric | Status |
 |------|------|
 | 👀 Profile Visits | Live Counter |
