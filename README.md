@@ -5,11 +5,9 @@
   <img src="https://img.shields.io/github/followers/Apuravaanand?label=Followers&style=flat-square" />
   <img src="https://img.shields.io/github/stars/Apuravaanand?label=Total%20Stars&style=flat-square" />
 </p>
-
 <p align="center">
   <b>Backend-Focused Full-Stack Developer</b> • <b>ECE @ Tezpur University</b>  
 </p>
-
 ---
 
 ## 📊 Professional Dashboard  
