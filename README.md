@@ -9,7 +9,6 @@
   <b>Backend-Focused Full-Stack Developer</b> • <b>ECE @ Tezpur University</b>  
 </p>
 ---
-
 ## 📊 Professional Dashboard  
 
 | Metric | Status |
