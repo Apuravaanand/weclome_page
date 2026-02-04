@@ -18,7 +18,6 @@
 | 🧠 Core Skills | Python, MERN, DSA (C++) |
 | ⚙️ Focus Area | Automation, Web Apps, APIs |
 | 🚀 Current Status | Actively Building Projects |
-
 ---
 
 ## 🧑‍💻 About Me  
